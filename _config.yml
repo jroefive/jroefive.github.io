@@ -6,6 +6,7 @@ plugins:
   - jekyll-titles-from-headings
   - kramdown
   - liquid  
+
 collections:
   phish:
     output: true
@@ -15,3 +16,4 @@ collections:
     output: true
   misc:
     output: true
+collections_dir: my_collections
