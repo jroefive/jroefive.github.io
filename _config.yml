@@ -3,7 +3,9 @@ plugins:
   - jekyll-sass-converter
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+  - jekyll-titles-from-headings
+  - kramdown
+  - liquid  
 collections:
   phish:
     output: true
