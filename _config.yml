@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-sass-converter
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 collections:
   phish:
     output: true
