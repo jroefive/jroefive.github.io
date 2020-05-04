@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why Phish Data?
+collection: phish
+---
 
 I’m about two weeks into my big dive into teaching myself data science and everyone says the first big step is to do my own project.  Create something that is interesting to me and that will be a way to push myself to figure out new things when I hit roadblocks and it can provide some insight to potential employers about how I think and solve problems.  My first idea was Phish stats.  And I’ve spent that majority of the last two weeks trying to convince myself it was a bad idea and to think of something more practical to start with.  I failed at this task and kept finding new reasons that it is the right place to start.
 
