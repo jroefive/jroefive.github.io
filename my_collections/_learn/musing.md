@@ -2,4 +2,4 @@
 layout:default
 ---
 
-Some random thoughts about how data science can be used in education.
+A place for random thoughts about the learning process.
