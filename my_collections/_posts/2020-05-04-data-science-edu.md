@@ -1,8 +1,10 @@
 ---
 layout: post
 author: jesse
+title: Data Science in Secondary Education
 ---
-	As I’m teaching myself data science, I am thinking a lot about how I may have used data differently if I had known some of the things then that I’m learning now.  Here are some of the things I would do if I was helping to support a data science initiative at a school district or CMO.  
+
+As I’m teaching myself data science, I am thinking a lot about how I may have used data differently if I had known some of the things then that I’m learning now.  Here are some of the things I would do if I was helping to support a data science initiative at a school district or CMO.  
 
 # Get teachers involved in the early development of models.  
 I have been surprised about how much data cleaning, feature engineering and parameter fine tuning happens in machine learning and I think this is a great place for teachers to offer their expertise and their knowledge of the local context.  Teachers are much better equipped to answer questions like: “Can we drop all this data with a missing value or is it better to fill in the blanks with an average value?” or “Should attendance be included in this model or not?”  or “Do we have too many parameters in this model?”
