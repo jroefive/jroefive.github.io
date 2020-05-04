@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<p style="color:gray; font-size:120%; text-align:center;">Here you'll find projets or writing about the following topics:</p>
+  
 Phish Stats - Phish has played over 1700 concerts and over 800 different songs.  Their setlists change every show and there are tons of hidden patterns and interesting trends that can be uncovered using data tools.  
   
 Musings on Data Science in Secondary Education - As I learn more about data science, I'm thinking a lot about how it can be applied to creating a more empowering environment for young people in schools.  
