@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
+site.github.name
 
-You can use the [editor on GitHub](https://github.com/jroefive/jroefive.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've always been a data nerd.  In high school, I went from liking math to loving it when we finally did regression.  In my bachelors degree in math and my masters degree in math eduaction, I was most interested in applied math.  And in my career as a teacher and administrator, I spent my free time trying to find patterns in data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I decided to use my quarantine time to teach myself some data science skills so that I can incorporate those skills and tools into my future work.  I'll be sharing that work in four categories:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jroefive/jroefive.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phish Stats - Phish has played over 1700 concerts and over 800 different songs.  Their setlists change every show and there are tons of hidden patterns and interesting trends that can be uncovered using data tools.  
+Musings on Data Science in Secondary Education - As I learn more about data science, I'm thinking a lot about how it can be applied to creating a more empowering environment for young people in schools.
+How I'm Learning - I'm trying different approaches to learning data science and I'll share some thoughts on how that's going.
+The Rest - Apart from teaching myself, I'm doing a lot of other things in quarantine and I'll share random thoughts about that here.
