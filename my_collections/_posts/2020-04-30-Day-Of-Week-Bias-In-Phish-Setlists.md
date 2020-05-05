@@ -169,7 +169,7 @@ What do you think? Do you have any guesses?  I could only really guess one song 
 A note about what the p-value means - So imagine that the band is so focused on their setlists being random that they get together every Monday morning and pick out all the songs they want to play for the week.  Then they throw them all in a hat for the shows of the week and keep picking out songs during each show to decide what to play next.  Now, let’s say they have always done that.  And there are 1000 other universes where they do the same.  The p-value shows how many of those 1000 universes will have 61 (or more) Lawn Boys.  And, since the universe is a donut, we don’t actually have to assume.  There are at least 1000 other universes where Phish is doing just this. \  
 
 
-**Most and least biased songs in order**  
+### Most and least biased songs in order 
 
 
 <table>
@@ -233,7 +233,7 @@ A note about what the p-value means - So imagine that the band is so focused on 
   </tr>
 </table>   
 
-
+### Setlist Notebook 
 Do you have a friend that always calls the same song on Saturday? “Bro, it’s Saturday, we’re totally getting a 2001 today.”  Does it annoy you that just because they played it at like three Saturday shows you went to together doesn’t mean there is a pattern?  Well, you can look it up in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1Zad07yaUdZ7mosk1b7EmPMz_Vbq3ISrAu-jkqLfTw0E/edit#gid=1432443463).    
 
 <span style="text-decoration:underline;">Secret Set</span>  
