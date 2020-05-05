@@ -3,7 +3,9 @@ layout: post
 collection: phish
 ---
 
-Why isn’t it Friday today? Well it’s never Friday when that song is played, and it’s always Tuesday when Tuesday is played.  But, are there other interesting patterns in Phish song selection for different days of the week?  I decided to make my first mini project in the Phish Stats journey this one because I thought it would be complicated enough to test my skills and straightforward enough to build a little confidence.  I don’t think it will appeal to fans as much as some other projects I’m thinking about, but I’m glad I started with it.  
+Why isn’t it Friday today? Well it’s never Friday when that song is played, and it’s always Tuesday when Tuesday is played.  But, are there other interesting patterns in Phish song selection for different days of the week?  I decided to make my first mini project in the Phish Stats journey this one because I thought it would be complicated enough to test my skills and straightforward enough to build a little confidence.  I don’t think it will appeal to fans as much as some other projects I’m thinking about, but I’m glad I started with it.
+
+[Just the Jams](#acd)
 
 ## Equate my life with Sand
 
@@ -48,11 +50,12 @@ Another potentially interesting project could be to look at how song lengths are
 *   Using the show/weekday distribution can give us a prediction of how many times a song should have been played on a given day if the distribution matched the distribution of shows.  From that we can compare the prediction with the total of times a song was played to find how many free versions of songs we’ve gotten and how many were stolen.  (i.e. There should have been 42 Tweezers because the percentage of Tuesday shows is 11.2% and there have been 371 Tweezers.  .112*371 = 42.  There have been 25 Tuesday Tweezers.  Trey, you owe us 17 Tuesday Tweezers!)  
 *   Rank all songs by doing sum of squares on their z-scores.  I thought about doing an average of all p-values but I can’t figure out how to get google sheets to spit out a p-value from a z-score.  So, instead of doing about 200 p-values in an online calculator to see if this is the case, I’ll stick with sum of squares of the z-score.  
 
-<span style="text-decoration:underline;">And You Step to the Line</span>  
+## And You Step to the Line -  
+<a name="abcd"></a>
 
 What do you think? Do you have any guesses?  I could only really guess one song that I thought might show up more on a certain day when I started.  But it was cool to put the answers into context after seeing how it all shook out.  I hope you enjoy doing that same.  
 
-**Top songs by day of the week**  
+### Top songs by day of the week
 
 
 <table>
