@@ -15,13 +15,13 @@ I assumed there were some changes in the distribution of shows across a week thr
 
 I also made an arbitrary decision to only use songs that have been played more than 100 times[1].  I figure it will be more interesting for others to see songs that are more common and reducing to songs with small sample sizes would create more chaos in the data that may make it feel less interesting.  Plus, this is a band that has over 100 songs that they’ve played 100 times, how cool is that?  
 
-_Setbreak_  
+### Setbreak  
 
 One thing I noticed after going through my first mock up of the data was that it stopped at the Mexico 2019 run, thus about 35 of the most recent shows were missing.  Probably not enough to make a huge difference in the data but some of the margins are pretty tiny so it’s worth going through the process again to get updated numbers.  Plus, I think this will push me to try to make the process a little cleaner than last time.  Also, TMWSIY and HYHU came up a few times and I realized that this was because it was counted twice for every show.  Thus, I’ll need to account for that in the next round.  
 
 I’m sure I could figure out how to do the math calculations in sql that I’ll need; but, it feels like there are enough steps that it would get cumbersome there.  So, I decided to get the raw numbers I need from sql and use google sheets to do the calculations.  I’ve done so many of these types of calculations in google sheets before, so it’ll definitely be faster.  
 
-_Set 2_  
+### Set 2  
 
 I wanted to create a way to compare each song’s day of week distribution against the day of week distribution for all shows during the history of that specific song, and not against the day of week distribution of all shows Phish ever played.  First thing I did was figure out that the show_ids weren’t in chronological order.  I need a new id for each show which is chronological order for this project to create show distributions based on debut date, and also for several future projects.  It turned out that the easiest thing was to create a new table with a new column that was just the row number after the shows table was sorted by date.  This gives me the debut date for every song in a table.    
 
@@ -29,22 +29,17 @@ My goal was to create a table that showed the totals of shows played on each day
 
 The only other data cleanup I did was removing The Man Who Stepped Into Yesterday from the data set since it was played over 100 times but was counted twice in every setlist (almost), so really it was played less than 100 times.  I could have done the same with Hold Your Head Up but that has over 200 tracks and just doubling every number shouldn’t really have an impact on this type of distribution.    
 
-_Encore_  
+### Encore 
 
 There are a lot of messy track names with either missing capitalization or segues of several songs making it so they don’t get counted.  While these differences are likely significant due to the tiny margins between some of the ranks, I’m not going to prioritize going through them all and breaking them up.  And, I’m sure, at this point, I’d make some mistakes in updating the database.  It also seems like there shouldn’t be any specific reason why this would happen on one day of the week more than others so maybe it all evens out.  If the data ever gets cleaned up in the future, by me or someone else, I can go back and update all the lists pretty easily.   
 
 Another potentially interesting project could be to look at how song lengths are distributed across different weekdays.  Do we never miss a Sunday show because they play extra Back on the Trains and fewer Mike’s Grooves or is it because it is more likely to have a monster jam or two?  
 
-_Teases_  
+### Notes 
 
-[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.    
+[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.   [2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
 
-[2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
-
-<span style="text-decoration:underline;">Mystified and Mishapen</span>  
-
-
-
+## Mystified and Mishapen
 *   Create a distribution of shows by weekday that shows which percentage of shows have happened on each day of the week.  Slice that data by era and in five year chunks to see if distribution of shows changed much over the years.  (Main difference is that there have been much fewer Monday and Thursday shows in 3.0.)  
 *   Create a table of all songs played at least 100 times with a count of how many times it was played on each day of the week.  (Join the tracks table and shows tables and use some case whens and extract dow from date)  
 *   Convert the totals to a percentage of times each song was played on each day of the week.  (i.e. 6.7% of all Tweezers were played on Tuesday)  
@@ -228,7 +223,7 @@ A note about what the p-value means - So imagine that the band is so focused on 
 
 <li>Sparkle
 
-<li>Runaway Jim
+<li>Runaway Jim  
 </li>
 </ol>
    </td>
