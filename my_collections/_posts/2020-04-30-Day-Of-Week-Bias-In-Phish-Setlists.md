@@ -204,8 +204,8 @@ A note about what the p-value means - So imagine that the band is so focused on 
 <li>Lawn Boy
 </li>
 </ol>
-   </td>
-   <td>
+  </td>
+ <td>
 <ol>
 
 <li>Scent of a Mule
@@ -229,6 +229,6 @@ A note about what the p-value means - So imagine that the band is so focused on 
 <li>Runaway Jim  
 </li>
 </ol>
-   </td>
-  </tr>
+  </td>
+ </tr>
 </table> 
