@@ -171,67 +171,11 @@ A note about what the p-value means - So imagine that the band is so focused on 
 
 ### Most and least biased songs in order 
 
+|Most Bias | Most Consistent|
+|----------|----------------|
+|1. Sand   |1. Scent of a Mule|
 
-<table>
-  <tr>
-   <td><strong>Most Bias</strong>
-   </td>
-   <td><strong>Most Consistent</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
 
-<li>Sand
-
-<li>Light
-
-<li>Backwards Down the Number Line
-
-<li>46 Days
-
-<li>Tweezer Reprise
-
-<li>Carini
-
-<li>Fee
-
-<li>Back on the Train
-
-<li>Dinner and a Movie
-
-<li>Lawn Boy
-</li>
-</ol>
-  </td>
- <td>
-<ol>
-
-<li>Scent of a Mule
-
-<li>Rocky Top
-
-<li>Rift
-
-<li>Geulah Papyrus
-
-<li>NICU
-
-<li>Reba
-
-<li>Big Black Furry Creatures from Mars
-
-<li>The Moma Dance
-
-<li>Sparkle
-
-<li>Runaway Jim  
-</li>
-</ol>
-  </td>
- </tr>
-</table>   
 
 ### Setlist Notebook 
 Do you have a friend that always calls the same song on Saturday? “Bro, it’s Saturday, we’re totally getting a 2001 today.”  Does it annoy you that just because they played it at like three Saturday shows you went to together doesn’t mean there is a pattern?  Well, you can look it up in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1Zad07yaUdZ7mosk1b7EmPMz_Vbq3ISrAu-jkqLfTw0E/edit#gid=1432443463).    
