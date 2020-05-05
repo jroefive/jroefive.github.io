@@ -39,7 +39,8 @@ Another potentially interesting project could be to look at how song lengths are
 
 ### Notes 
 
-[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.     [2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
+[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.  
+[2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
 
 ## Mystified and Mishapen
 *   Create a distribution of shows by weekday that shows which percentage of shows have happened on each day of the week.  Slice that data by era and in five year chunks to see if distribution of shows changed much over the years.  (Main difference is that there have been much fewer Monday and Thursday shows in 3.0.)  
