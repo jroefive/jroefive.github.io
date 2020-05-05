@@ -233,4 +233,16 @@ A note about what the p-value means - So imagine that the band is so focused on 
  </tr>
 </table> 
 
-Did it work?
+### Setlist Notebook 
+Do you have a friend that always calls the same song on Saturday? “Bro, it’s Saturday, we’re totally getting a 2001 today.”  Does it annoy you that just because they played it at like three Saturday shows you went to together doesn’t mean there is a pattern?  Well, you can look it up in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1Zad07yaUdZ7mosk1b7EmPMz_Vbq3ISrAu-jkqLfTw0E/edit#gid=1432443463).    
+
+## Secret Set
+
+### Bonus question: What’s the most played song that has never been played on each given day of the week?  
+Sunday: Bike (25 times played)  
+Monday: Halfway to the Moon (43)  
+Tuesday: Life on Mars? (23)  
+Wednesday: Donna Lee (20)  
+Thursday: Golden Age (53)  
+Friday: Terrapin (27)  
+Saturday: Bittersweet Motel (18)  
