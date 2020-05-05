@@ -5,7 +5,7 @@ collection: phish
 
 Why isn’t it Friday today? Well it’s never Friday when that song is played, and it’s always Tuesday when Tuesday is played.  But, are there other interesting patterns in Phish song selection for different days of the week?  I decided to make my first mini project in the Phish Stats journey this one because I thought it would be complicated enough to test my skills and straightforward enough to build a little confidence.  I don’t think it will appeal to fans as much as some other projects I’m thinking about, but I’m glad I started with it.
 
-[Just the Jams](#acd)
+[Just the Jams](#abcd)
 
 ## Equate my life with Sand
 
