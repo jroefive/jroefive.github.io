@@ -39,7 +39,7 @@ Another potentially interesting project could be to look at how song lengths are
 
 ### Notes 
 
-[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.   [2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
+[1] It would be pretty easy to recreate this data for songs played less than 100 times.  I could do that if there was enough interest.     [2] If it's possible to do this kind of thing in sql, which I’m guessing it is, I’d love some tips on how to do it.  
 
 ## Mystified and Mishapen
 *   Create a distribution of shows by weekday that shows which percentage of shows have happened on each day of the week.  Slice that data by era and in five year chunks to see if distribution of shows changed much over the years.  (Main difference is that there have been much fewer Monday and Thursday shows in 3.0.)  
@@ -49,9 +49,8 @@ Another potentially interesting project could be to look at how song lengths are
 *   This is enough to rank the songs by over- or under-representation on a given weekday.  To see which songs are most and least likely to be played on every day of the week.  
 *   Using the show/weekday distribution can give us a prediction of how many times a song should have been played on a given day if the distribution matched the distribution of shows.  From that we can compare the prediction with the total of times a song was played to find how many free versions of songs we’ve gotten and how many were stolen.  (i.e. There should have been 42 Tweezers because the percentage of Tuesday shows is 11.2% and there have been 371 Tweezers.  .112*371 = 42.  There have been 25 Tuesday Tweezers.  Trey, you owe us 17 Tuesday Tweezers!)  
 *   Rank all songs by doing sum of squares on their z-scores.  I thought about doing an average of all p-values but I can’t figure out how to get google sheets to spit out a p-value from a z-score.  So, instead of doing about 200 p-values in an online calculator to see if this is the case, I’ll stick with sum of squares of the z-score.  
-
-## And You Step to the Line -  
 <a name="abcd"></a>
+## And You Step to the Line -  
 
 What do you think? Do you have any guesses?  I could only really guess one song that I thought might show up more on a certain day when I started.  But it was cool to put the answers into context after seeing how it all shook out.  I hope you enjoy doing that same.  
 
