@@ -231,7 +231,7 @@ A note about what the p-value means - So imagine that the band is so focused on 
 </ol>
    </td>
   </tr>
-</table>  
+</table>   
 
 
 Do you have a friend that always calls the same song on Saturday? “Bro, it’s Saturday, we’re totally getting a 2001 today.”  Does it annoy you that just because they played it at like three Saturday shows you went to together doesn’t mean there is a pattern?  Well, you can look it up in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1Zad07yaUdZ7mosk1b7EmPMz_Vbq3ISrAu-jkqLfTw0E/edit#gid=1432443463).    
