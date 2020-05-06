@@ -15,6 +15,6 @@ This is a place where I'll dump all my ideas for blog posts and random thoughts 
 
 
 ### Random Thoughts
-*
+* Can machine learning be used to predict which novice teachers will be most effective?
 
 
