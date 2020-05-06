@@ -12,5 +12,5 @@ I'd like to document my learning process but I don't want to overdue it.  So, I'
 * Audience for the blog
 
 ### Data Science Project Ideas that Aren't Phish
-* Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.
+* [Quarantine Walk Mapping](https://jroefive.github.io/2020/05/02/Quarantine-Walk-Mapping.html) - Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.
 * Six Degrees of Chris Rock - Why do all pop-psych books use the exact examples?  Network analysis of the index of the top 100 pop-pysch books.
