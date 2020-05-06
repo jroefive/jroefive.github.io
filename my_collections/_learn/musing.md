@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 I'd like to document my learning process but I don't want to overdue it.  So, I'll park a bunch of ideas for what to write about here and choose what feels most interesting.
