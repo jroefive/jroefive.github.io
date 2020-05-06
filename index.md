@@ -10,4 +10,4 @@ layout: default
   
 [How I'm Learning](https://jroefive.github.io/learn/musing.html) - I'm trying different approaches to learning data science and I'll share some thoughts on how that's going.  
   
-The Rest - Apart from teaching myself, I'm doing a lot of other things in quarantine and I'll share random thoughts about that here.
+[The Rest](https://jroefive.github.io/misc/list.html) - Apart from teaching myself, I'm doing a lot of other things in quarantine and I'll share random thoughts about that here.
