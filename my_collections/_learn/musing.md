@@ -10,3 +10,7 @@ I'd like to document my learning process but I don't want to overdue it.  So, I'
 * How learning Spanish while traveling primed me for teaching myself coding
 * Share a raw copy of my notes from listening to podcasts and walks and explain
 * Audience for the blog
+
+### Data Science Project Ideas that Aren't Phish
+* Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.
+* Six Degrees of Chris Rock - Why do all pop-psych books use the exact examples?  Network analysis of the index of the top 100 pop-pysch books.
