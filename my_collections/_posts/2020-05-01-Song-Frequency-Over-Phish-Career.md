@@ -40,6 +40,8 @@ SQL Code for pulling number of times a song is played in each 100 show interval
 
 
 ## And You Step To The Line
+You can find all graphs mentioned by using the arrows at the top of the window.
+
 <div class="flourish-embed" data-src="story/302053" data-url="https://flo.uri.sh/story/302053/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
