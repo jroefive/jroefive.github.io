@@ -8,11 +8,14 @@ The last time I lived in Sussex County was 2001, the year I graduated high schoo
 
 <div style="text-align: center"><img src="https://media.giphy.com/media/VG7zRftUQgHfSHiQ79/giphy.gif" width="400" /></div>
 
-Below are some photo highlights from these walks.  If you want to see all the pictures I took, you can find them in my googlt photos album here.
+Below are some photo highlights from these walks.  If you want to see all the pictures I took, you can find them in my [google photos album ](https://photos.app.goo.gl/hsHMmXxUZxApgnFS8) here.
 
-![Preview2](/photos/MVIMG_20200503_090520.jpg)
-
-| ----------- | ----------- |----------|
-|![Preview1](/photos/MVIMG_20200503_090520.jpg)|![Preview3](/photos/MVIMG_20200502_104312.jpg)|![Preview1](/photos/MVIMG_20200429_115536.jpg)|
-![Preview1](/photos/MVIMG_20200429_112828.jpg =200x)|![Preview1](/photos/MVIMG_20200427_103046.jpg =200x)|![Preview1](/photos/MVIMG_20200423_113725.jpg =200x)|
-|![Preview1](/photos/MVIMG_20200416_113853.jpg =200x)|![Preview1](/photos/MVIMG_20200416_113801.jpg =200x)|![Preview1](/photos/MVIMG_20200408_123158.jpg =200x)|
+![Preview1](/photos/MVIMG_20200503_090520.jpg)
+![Preview3](/photos/MVIMG_20200502_104312.jpg)
+![Preview1](/photos/MVIMG_20200429_115536.jpg)
+![Preview1](/photos/MVIMG_20200429_112828.jpg)
+![Preview1](/photos/MVIMG_20200427_103046.jpg)
+![Preview1](/photos/MVIMG_20200423_113725.jpg)
+![Preview1](/photos/MVIMG_20200416_113853.jpg)
+![Preview1](/photos/MVIMG_20200416_113801.jpg)
+![Preview1](/photos/MVIMG_20200408_123158.jpg)
