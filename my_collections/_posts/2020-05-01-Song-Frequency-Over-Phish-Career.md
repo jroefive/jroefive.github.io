@@ -5,6 +5,8 @@ collection: phish
 
 Everyone knows which songs Phish has played most often, and many of us can remember different periods where some songs used to be played a lot more than they are now.  While it's easy to go take a quick look at how many times Roggae was played in 2011 or which year had the most Twists, I thought there was probably a way to visualize this to see more of the data all at once.
 
+[Just the Jams](#abcd)
+
 ## Equate My Life with Sand
 ### Set 1
 My first decision was to show data by 100 shows instead of by year or tour.  I think the benefit is comparing song frequency over Phish’s entire career in an easy to see way.  In 1994, there were six songs that were played more times than the total number of shows in any year since 2010.  So, to even that out, I made intervals of 100 shows instead of years.
@@ -38,8 +40,7 @@ I’m also thinking about doing the same type of graph but instead of times play
 * SQL Code for pulling number of times a song is played in each 100 show interval
 ![Preview1](/photos/Annotation 2020-05-07 171940.jpg)
 
-
-
+<a name="abcd"></a>
 ## And You Step To The Line
 You can find all graphs mentioned by using the arrows at the top of the window.
 
