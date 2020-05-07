@@ -10,7 +10,7 @@ The last time I lived in Sussex County was 2001, the year I graduated high schoo
 
 Below are some photo highlights from these walks.  If you want to see all the pictures I took, you can find them in my googlt photos album here.
 
-Photo 1
+![Preview1](/photos/MVIMG_20200503_090520.jpg)
 
 | ----------- | ----------- |----------|
 |![Preview1](/photos/MVIMG_20200503_090520.jpg)|![Preview1](/photos/MVIMG_20200502_104312.jpg)|![Preview1](/photos/MVIMG_20200429_115536.jpg)|
