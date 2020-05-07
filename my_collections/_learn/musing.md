@@ -5,7 +5,7 @@ layout: default
 I'd like to document my learning process but I don't want to overdue it.  So, I'll park a bunch of ideas for what to write about here and choose what feels most interesting.
 
 ### Blogs Posted
-* [Share a raw copy of my notes from listening to podcasts and walks and explain](https://jroefive.github.io/2020/05/07/Podcast-Notes.html)
+* [Share a raw copy of my notes from listening to podcasts](https://jroefive.github.io/2020/05/07/Podcast-Notes.html)
 * [Quarantine Walk Mapping](https://jroefive.github.io/2020/05/02/Quarantine-Walk-Mapping.html) - Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.  So far I just have an idea for an algorithm, not any model.
 
 ### Blog Ideas
