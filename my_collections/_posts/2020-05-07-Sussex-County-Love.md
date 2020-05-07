@@ -12,3 +12,7 @@ Below are some photo highlights from these walks.  If you want to see all the pi
 
 Photo 1
 
+| ----------- | ----------- |----------|
+| Header      | Title       |          |
+| Paragraph   | Text        |          |
+| Paragraph   | Text        |          |
