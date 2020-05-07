@@ -34,9 +34,9 @@ I’m also thinking about doing the same type of graph but instead of times play
 
 ## Mystified and Mishapen
 * SQL Code for creating a table with a shows_since_debut column
-![Preview1](/photos/Untitled_drawing.jpg)
+![Preview1](/photos/Untitled drawing.jpg)
 * SQL Code for pulling number of times a song is played in each 100 show interval
-![Preview1](/photos/MVIMG_20200416_113853.jpg)
+![Preview1](/photos/Annotation 2020-05-07 171940.jpg)
 
 
 
