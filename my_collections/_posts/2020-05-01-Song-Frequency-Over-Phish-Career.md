@@ -33,9 +33,10 @@ I’m also thinking about doing the same type of graph but instead of times play
 [2]It would be very easy to create more of these for any subset of songs.  Requests accepted.
 
 ## Mystified and Mishapen
-SQL Code for creating a table with a shows_since_debut column
-
-SQL Code for pulling number of times a song is played in each 100 show interval
+* SQL Code for creating a table with a shows_since_debut column
+![Preview1](/photos/Untitled_drawing.jpg)
+* SQL Code for pulling number of times a song is played in each 100 show interval
+![Preview1](/photos/MVIMG_20200416_113853.jpg)
 
 
 
