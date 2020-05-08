@@ -8,10 +8,11 @@ Shakedown is not just a place to see the same song titleds crammed into a popula
 * [Why Phish Data?](https://jroefive.github.io/2020/04/19/Why-Phish-Data.html) - Why did I choose to use Phish data to teach me data science concepts?
 * [Anatomy of a Phish Stats Post](https://jroefive.github.io/2020/05/05/Anatomy-of-a-Phish-Stats-Post.html) - The structure I'll use to post Phish stats
 * [Day of week bias analysis](https://jroefive.github.io/2020/04/30/Day-Of-Week-Bias-In-Phish-Setlists.html) - Are some songs played more frequently on certain days of the week?
-* [How Mess is thie Data?](https://jroefive.github.io/2020/05/01/How-Messy-Is-This-Data.html) - I'm using a database from Phish.in that is focused more on uploading tracks and less on analyzing Phish data, it's kinda messy.
+* [How Messy is thie Data?](https://jroefive.github.io/2020/05/01/How-Messy-Is-This-Data.html) - I'm using a database from Phish.in that is focused more on uploading tracks and less on analyzing Phish data, it's kinda messy.
+* [Song frequence changes over the course of Phish's career](https://jroefive.github.io/2020/05/02/Song-Frequency-Over-Phish-Career.html)
 
 ### Projects Almost Done
-* Song frequence changes over the course of Phish's career or the history of the specific song.
+
 * How have Halloween albums impacted future setlists - Publish along with similar analysis for album releases
 
 ### Projects Started
@@ -29,6 +30,9 @@ Shakedown is not just a place to see the same song titleds crammed into a popula
 * State or venue bias - Are they more likely to play certain songs in certain states or venues?
 * Predicting the frequency of a song based on its debut - Is it possible to predict how frequently a new song will be played based on the set placement of the debut, or the length of the debut, or how far into a tour the song is debuted?
 * Predicting the distribution of how many times each song will be played in the next 50 shows.
+
+### Requests
+Apart from focusing on the projects that get me to practice skills connected to machine learning, I don't really have a preferences for which of these projects I work on next.  So, requests are welcome (jroefive@gmail.com), either from the list above or ideas you might have.  Just don't hold you sign up for too long and block the view of the people behind you.
 
 
 
