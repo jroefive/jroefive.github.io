@@ -18,7 +18,7 @@ Due to rain, set two is being delayed until I have more time to put together som
 * The SQL Code I used to create the table that shows every show and how many tracks were in each set.  
 
 ![Preview](/photos/tracks_per_set_sql.jpg)
-* I just used a simple google sheet average formula to find the 50 show running averages.  Here's a link to the google sheet if you want to take the data and do anything with it.
+* I just used a simple google sheet average formula to find the 50 show running averages.  Here's a [link to the google sheet](https://docs.google.com/spreadsheets/d/1E5QwLMEQeDXTVy-MSfgSFrPVEqgwi9XmTdLVKAaOptg/edit?usp=sharing) if you want to take the data and do anything with it.
 
 ## And You Step to the Line
 <div class="flourish-embed" data-src="story/328860" data-url="https://flo.uri.sh/story/328860/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
