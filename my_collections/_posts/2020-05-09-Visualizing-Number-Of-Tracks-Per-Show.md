@@ -16,7 +16,7 @@ Due to rain, set two is being delayed until I have more time to put together som
 
 ## Mystified and Mishapen
 * The SQL Code I used to create the table that shows every show and how many tracks were in each set.
-![Preview](/photos/tracks per set sql.jpg)
+![Preview](/photos/tracks_per_set_sql.jpg)
 * I just used a simple google sheet average formula to find the 50 show running averages.  Here's a link to the google sheet if you want to take the data and do anything with it.
 
 ## And You Step to the Line
