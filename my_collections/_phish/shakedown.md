@@ -9,7 +9,8 @@ Shakedown is not just a place to see the same song titles crammed into a popular
 * [Anatomy of a Phish Stats Post](https://jroefive.github.io/2020/05/05/Anatomy-of-a-Phish-Stats-Post.html) - The structure I'll use to post Phish stats
 * [Day of week bias analysis](https://jroefive.github.io/2020/04/30/Day-Of-Week-Bias-In-Phish-Setlists.html) - Are some songs played more frequently on certain days of the week?
 * [How Messy is thie Data?](https://jroefive.github.io/2020/05/01/How-Messy-Is-This-Data.html) - I'm using a database from Phish.in that is focused more on uploading tracks and less on analyzing Phish data, it's kinda messy.
-* [Song frequence changes over the course of Phish's career](https://jroefive.github.io/2020/05/02/Song-Frequency-Over-Phish-Career.html)
+* [Song frequency changes over the course of Phish's career](https://jroefive.github.io/2020/05/02/Song-Frequency-Over-Phish-Career.html)
+* [Visualizing Changes in Number of Songs per Show](https://jroefive.github.io/2020/05/09/Visualizing-Number-Of-Tracks-Per-Show.html) - A handful of visualizations showing how the number of songs in each set and in a full show have changed over time.
 
 ### Projects Almost Done
 
