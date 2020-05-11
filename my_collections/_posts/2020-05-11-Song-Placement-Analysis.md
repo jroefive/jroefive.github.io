@@ -18,6 +18,8 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 
 ## Mystified and Mishapen
 *SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots
+[pic](/photos/set_open_close1.jpg)
+[pic2](/photos/set_open_close2.jpg)
 *SQL Code for finding the percentage of times each song was in each set slot
 *SQL Code for finding the average and standard deviation of placement
 *SQL Code for listing all placement for individual songs for the the beeswarm plots
