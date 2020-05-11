@@ -36,7 +36,8 @@ Not including encores
 <a name="abcd"></a>
 ## And You Step to the Line
 ### Most Likely to:
-|Rank|Open a Set|Second Song|Second to Last|Closer|Middle Songs*|
+
+|Rank|Open a Set|Second Song|Second to Last|Closer|Middle Songs|
 |--|--|--|--|--|--|
 |1|Buried Alive (44%)|No Men in No Man's Land (34%)|The Ballad of Curtis Loew (38%)|Walls of the Cave (73%)|The Horse (97%)|
 |2|Runaway Jim (24%)|Foam (33%)|Harry Hood (31%)|Run Like an Antelope (61%)|Big Ball Jam (94%)|
@@ -45,6 +46,7 @@ Not including encores
 |5|Llama (21%)|The Curtain (26%)|I Didn't Know (28%)|David Bowie (43%)|Axilla (Part II) (91%)|
 * Middle Songs - Song 3 or after but not second to last or a closer
 
+### Early and Late Songs
 |Rank|Earliest Average Placement|Latest Average Placement|
 |---|--|--|
 |1|Foam (.19)|Show Of Life (0.88)|
@@ -53,6 +55,7 @@ Not including encores
 |4|Dogs Stole Things (.20)|Sleeping Monkey (0.86)|
 |5|Buried Alive (.21)|Good Times Bad Times (0.82)|
 
+### High and Low Variation Songs
 |Rank|Least Variation in Set Placement|Most Variation in Set Placement|
 |---|--|--|
 |1|Cold As Ice (0.06)|First Tube (0.38)|
