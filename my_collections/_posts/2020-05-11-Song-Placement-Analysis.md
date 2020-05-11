@@ -17,15 +17,15 @@ This allowed me to create tables that show for each song the percentage of times
 In the last step above, I realized that I hadn’t adjusted for shows that had soundcheck tracks.  For the phish.in website, they need to have a position to be shown first, but I didn’t want soundcheck songs to count as part of the show and forgetting that made it so my formulas were off.  Unfortunately, the adjustment I made to my SQL query wouldn’t accomplish what I wanted, so I ended up dropping the 37 shows that had soundcheck tracks included.  
 
 ## Mystified and Mishapen
-*SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots
-[pic](/photos/set_open_close1.jpg)
-[pic2](/photos/set_open_close2.jpg)
-*SQL Code for finding the percentage of times each song was in each set slot
-[pic3](/photos/percent_open_close.jpg)
-*SQL Code for finding the average and standard deviation of placement
-[pic4](/photos/avg_std_placement.jpg)
-*SQL Code for listing all placement for individual songs for the the beeswarm plots
-[pic5](/photos/set_placement_for_beeswarm.jpg)
+*SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots  
+![pic](/photos/set_open_close1.jpg)  
+![pic2](/photos/set_open_close2.jpg)  
+*SQL Code for finding the percentage of times each song was in each set slot  
+![pic3](/photos/percent_open_close.jpg)  
+*SQL Code for finding the average and standard deviation of placement  
+![pic4](/photos/avg_std_placement.jpg)  
+*SQL Code for listing all placement for individual songs for the the beeswarm plots  
+![pic5](/photos/set_placement_for_beeswarm.jpg)  
 
 ## And You Step to the Line
 Just the Jams Link
