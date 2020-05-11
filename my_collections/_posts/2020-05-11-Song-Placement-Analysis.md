@@ -66,7 +66,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 |4|Golden Age (0.08)|Banter (0.32)|
 |5|Yarmouth Road (0.10)|Golgi Apparatus (0.32)|
 
-
+### Some Visuals 
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 *Beeswarm songs chosen to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
 
