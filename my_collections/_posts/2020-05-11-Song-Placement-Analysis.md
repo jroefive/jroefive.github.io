@@ -10,17 +10,14 @@ In my ultimate goal to create a model that can predict if a song is the last son
 ## Equate My Life with Sand
 ### Set 2
 I had to take several steps to get numbers that I needed.  I started with the table in the last project where it shows every show and how many songs are in each set and was able to create a table that has every track from every show and then shows the following:
-How far into the show it was played
-The position of the song within its set
-Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically
+*How far into the show it was played
+*The position of the song within its set
+*Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically
 
-This allowed me to create tables that show for each song the percentage of times it opened a set, was the second song in a set, preclosed a set and closed a set.  A table that showed the average placement of a song and the standard deviation of the song placement.  This allowed me to see which songs tend to be at the beginning or end of shows and which songs tend to hover around the same placement in a show and which songs were more likely to show up all over a show.  From this I chose five songs to make some beeswarm diagrams so you could see how song placements are distributed visually.  In that section, I adjusted song placement to be by set instead of overall show.  
+This allowed me to create tables that show for each song the percentage of times it opened a set, was the second song in a set, was the second to last song in a set and closed a set.  I also created a table that showed the average placement of a song and the standard deviation of the song placement.  This allowed me to see which songs tend to be at the beginning or end of shows and which songs tend to hover around the same placement in a show as opposed to showing up all over a show.  From this I chose five songs to make some beeswarm diagrams so you could see how song placements are distributed visually.  In that section, I adjusted song placement to be by set instead of overall show.  
 
 In the last step above, I realized that I hadn’t adjusted for shows that had soundcheck tracks.  For the phish.in website, they need to have a position to be shown first, but I didn’t want soundcheck songs to count as part of the show and forgetting that made it so my formulas were off.  Unfortunately, the adjustment I made to my SQL query wouldn’t accomplish what I wanted, so I ended up dropping the 37 shows that had soundcheck tracks included.  
 
-Drop songs
-Songs x number of times played
-Not including encores
 
 ## Mystified and Mishapen
 ### SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots  
@@ -45,6 +42,7 @@ Not including encores
 |4|AC/DC Bag (22%)|Blaze On (29%)|Sanity (29%)|Slave to the Traffic Light (46%)|Yarmouth Road (92%)|
 |5|Llama (21%)|The Curtain (26%)|I Didn't Know (28%)|David Bowie (43%)|Axilla (Part II) (91%)|
 * Middle Songs - Song 3 or after but not second to last or a closer
+* Being the first song in an encore doesn't count as being an opener
 
 ### Early and Late Songs
 |Rank|Earliest Average Placement|Latest Average Placement|
@@ -65,7 +63,7 @@ Not including encores
 |5|Yarmouth Road (0.10)|Golgi Apparatus (0.32)|
 
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Beeswarm songs chosen to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
+*Beeswarm songs chosen to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
 
 ### Setlist Notebook:
 And here’s a [link to my google spreadsheet](https://docs.google.com/spreadsheets/d/1BpC31Mz0EMFbQslktbcmSgOt_ioh43q2skVeEpxfSJg/edit?usp=sharing) with all the raw data if you want to use it for anything.
