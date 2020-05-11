@@ -43,10 +43,26 @@ Not including encores
 |3|Party Time (23%)|The Moma Dance (32%)|Wading in the Velvet Set (31%)|Character Zero (54%)|Narration (92%)|
 |4|AC/DC Bag (22%)|Blaze On (29%)|Sanity (29%)|Slave to the Traffic Light (46%)|Yarmouth Road (92%)|
 |5|Llama (21%)|The Curtain (26%)|I Didn't Know (28%)|David Bowie (43%)|Axilla (Part II) (91%)|
+* Middle Songs - Song 3 or after but not second to last or a closer
 
-Most Likely to Open, Second, Preclose, Close Table
-Highest/Lowest Avg Placement and Std Dev
+|Rank|Earliest Average Placement|Latest Average Placement|
+|---|--|--|
+|1|Foam (.19)|Show Of Life (0.88)|
+|2|Kill Devil Falls (.20)|Tweezer Reprise (0.87)|
+|3|The Moma Dance (.20)|Highway to Hell (0.86)|
+|4|Dogs Stole Things (.20)|Sleeping Monkey (0.86)|
+|5|Buried Alive (.21)|Good Times Bad Times (0.82)|
+
+|Rank|Least Variation in Set Placement|Most Variation in Set Placement|
+|---|--|--|
+|1|Cold As Ice (0.06)|First Tube (0.38)|
+|2|Show of Life (0.07)|Carolina (0.35)|
+|3|Big Ball Jam (0.08)|Alumni Blues > Letter to Jimmy Page > Alumni Blues (0.34)|
+|4|Golden Age (0.08)|Banter (0.32)|
+|5|Yarmouth Road (0.10)|Golgi Apparatus (0.32)|
+
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Beeswarm songs chose to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
 
 ### Setlist Notebook:
 And here’s a [link to my google spreadsheet](https://docs.google.com/spreadsheets/d/1BpC31Mz0EMFbQslktbcmSgOt_ioh43q2skVeEpxfSJg/edit?usp=sharing) with all the raw data if you want to use it for anything.
