@@ -10,9 +10,9 @@ In my ultimate goal to create a model that can predict if a song is the last son
 ## Equate My Life with Sand
 ### Set 2
 I had to take several steps to get numbers that I needed.  I started with the table in the last project where it shows every show and how many songs are in each set and was able to create a table that has every track from every show and then shows the following:
-*How far into the show it was played.
-*The position of the song within its set.
-*Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically.
+* How far into the show it was played.  
+* The position of the song within its set.  
+* Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically.  
 
 This allowed me to create tables that show for each song the percentage of times it opened a set, was the second song in a set, was the second to last song in a set and closed a set.  I also created a table that showed the average placement of a song and the standard deviation of the song placement.  This allowed me to see which songs tend to be at the beginning or end of shows and which songs tend to hover around the same placement in a show as opposed to showing up all over a show.  From this I chose five songs to make some beeswarm diagrams so you could see how song placements are distributed visually.  In that section, I adjusted song placement to be by set instead of overall show.  
 
@@ -41,6 +41,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 |3|Party Time (23%)|The Moma Dance (32%)|Wading in the Velvet Set (31%)|Character Zero (54%)|Narration (92%)|
 |4|AC/DC Bag (22%)|Blaze On (29%)|Sanity (29%)|Slave to the Traffic Light (46%)|Yarmouth Road (92%)|
 |5|Llama (21%)|The Curtain (26%)|I Didn't Know (28%)|David Bowie (43%)|Axilla (Part II) (91%)|
+
 * Middle Songs - Song 3 or after but not second to last or a closer
 * Being the first song in an encore doesn't count as being an opener
 
@@ -53,6 +54,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 |4|Dogs Stole Things (.20)|Sleeping Monkey (0.86)|
 |5|Buried Alive (.21)|Good Times Bad Times (0.82)|
 
+
 ### High and Low Variation Songs
 |Rank|Least Variation in Set Placement|Most Variation in Set Placement|
 |---|--|--|
@@ -61,6 +63,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 |3|Big Ball Jam (0.08)|Alumni Blues > Letter to Jimmy Page > Alumni Blues (0.34)|
 |4|Golden Age (0.08)|Banter (0.32)|
 |5|Yarmouth Road (0.10)|Golgi Apparatus (0.32)|
+
 
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 *Beeswarm songs chosen to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
