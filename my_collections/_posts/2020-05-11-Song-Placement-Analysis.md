@@ -10,9 +10,9 @@ In my ultimate goal to create a model that can predict if a song is the last son
 ## Equate My Life with Sand
 ### Set 2
 I had to take several steps to get numbers that I needed.  I started with the table in the last project where it shows every show and how many songs are in each set and was able to create a table that has every track from every show and then shows the following:
-*How far into the show it was played
-*The position of the song within its set
-*Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically
+*How far into the show it was played.
+*The position of the song within its set.
+*Then a true or false for if it is a set opener, a set precloser (song before the closer), a set closer, and then repeats the same three for set 1, set 2, set 3, and encore specifically.
 
 This allowed me to create tables that show for each song the percentage of times it opened a set, was the second song in a set, was the second to last song in a set and closed a set.  I also created a table that showed the average placement of a song and the standard deviation of the song placement.  This allowed me to see which songs tend to be at the beginning or end of shows and which songs tend to hover around the same placement in a show as opposed to showing up all over a show.  From this I chose five songs to make some beeswarm diagrams so you could see how song placements are distributed visually.  In that section, I adjusted song placement to be by set instead of overall show.  
 
