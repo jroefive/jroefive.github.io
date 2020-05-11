@@ -46,6 +46,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 * Being the first song in an encore doesn't count as being an opener
 
 ### Early and Late Songs
+
 |Rank|Earliest Average Placement|Latest Average Placement|
 |---|--|--|
 |1|Foam (.19)|Show Of Life (0.88)|
@@ -56,6 +57,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 
 
 ### High and Low Variation Songs
+
 |Rank|Least Variation in Set Placement|Most Variation in Set Placement|
 |---|--|--|
 |1|Cold As Ice (0.06)|First Tube (0.38)|
