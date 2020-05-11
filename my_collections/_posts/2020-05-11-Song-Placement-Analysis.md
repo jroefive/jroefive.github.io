@@ -23,14 +23,14 @@ Songs x number of times played
 Not including encores
 
 ## Mystified and Mishapen
-*SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots  
+###*SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots  
 ![pic](/photos/set_open_close1.jpg)  
 ![pic2](/photos/set_open_close2.jpg)  
-*SQL Code for finding the percentage of times each song was in each set slot  
+###*SQL Code for finding the percentage of times each song was in each set slot  
 ![pic3](/photos/percent_open_close.jpg)  
-*SQL Code for finding the average and standard deviation of placement  
+###*SQL Code for finding the average and standard deviation of placement  
 ![pic4](/photos/avg_std_placement.jpg)  
-*SQL Code for listing all placement for individual songs for the the beeswarm plots  
+###*SQL Code for listing all placement for individual songs for the the beeswarm plots  
 ![pic5](/photos/set_placement_for_beeswarm.jpg)  
 
 <a name="abcd"></a>
