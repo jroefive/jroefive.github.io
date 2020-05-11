@@ -65,7 +65,7 @@ Not including encores
 |5|Yarmouth Road (0.10)|Golgi Apparatus (0.32)|
 
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Beeswarm songs chose to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
+Beeswarm songs chosen to show a variety with 100+ plays.  YEM - Most Played, Foam - Early Song, Tweeprise - Late Song, Light - Low Variation, First Tube - High Variation
 
 ### Setlist Notebook:
 And here’s a [link to my google spreadsheet](https://docs.google.com/spreadsheets/d/1BpC31Mz0EMFbQslktbcmSgOt_ioh43q2skVeEpxfSJg/edit?usp=sharing) with all the raw data if you want to use it for anything.
