@@ -31,7 +31,9 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 
 <a name="abcd"></a>
 ## And You Step to the Line
-Just the Jams Link
+|Open a Set|Second Song|Second to Last|Closer|
+|--|--|--|--|
+
 Most Likely to Open, Second, Preclose, Close Table
 Highest/Lowest Avg Placement and Std Dev
 <div class="flourish-embed" data-src="story/334562" data-url="https://flo.uri.sh/story/334562/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
