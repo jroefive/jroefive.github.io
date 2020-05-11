@@ -18,6 +18,10 @@ This allowed me to create tables that show for each song the percentage of times
 
 In the last step above, I realized that I hadn’t adjusted for shows that had soundcheck tracks.  For the phish.in website, they need to have a position to be shown first, but I didn’t want soundcheck songs to count as part of the show and forgetting that made it so my formulas were off.  Unfortunately, the adjustment I made to my SQL query wouldn’t accomplish what I wanted, so I ended up dropping the 37 shows that had soundcheck tracks included.  
 
+Drop songs
+Songs x number of times played
+Not including encores
+
 ## Mystified and Mishapen
 *SQL Code for adding show placement, set position, and true/false for all open/preclose/close spots  
 ![pic](/photos/set_open_close1.jpg)  
@@ -31,8 +35,14 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 
 <a name="abcd"></a>
 ## And You Step to the Line
-|Open a Set|Second Song|Second to Last|Closer|
-|--|--|--|--|
+### Most Likely to:
+|Rank|Open a Set|Second Song|Second to Last|Closer|Middle Songs*|
+|--|--|--|--|--|--|
+|1|Buried Alive (44%)|No Men in No Man's Land (34%)|The Ballad of Curtis Loew (38%)|Walls of the Cave (73%)|The Horse (97%)|
+|2|Runaway Jim (24%)|Foam (33%)|Harry Hood (31%)|Run Like an Antelope (61%)|Big Ball Jam (94%)|
+|3|Party Time (23%)|The Moma Dance (32%)|Wading in the Velvet Set (31%)|Character Zero (54%)|Narration (92%)|
+|4|AC/DC Bag (22%)|Blaze On (29%)|Sanity (29%)|Slave to the Traffic Light (46%)|Yarmouth Road (92%)|
+|5|Llama (21%)|The Curtain (26%)|I Didn't Know (28%)|David Bowie (43%)|Axilla (Part II) (91%)|
 
 Most Likely to Open, Second, Preclose, Close Table
 Highest/Lowest Avg Placement and Std Dev
