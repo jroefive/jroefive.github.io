@@ -5,6 +5,8 @@ collection: phish
 
 In my ultimate goal to create a model that can predict if a song is the last song in a set or not, I’m looking at the number of songs played so far, the song being played, and the amount of time passed in the set so far.  I already did some work on number of songs played in a set over Phish’s career and today I looked into the way that songs are placed within sets and complete shows.
 
+[Just the Jams](#abcd)
+
 ## Equate My Life with Sand
 ### Set 2
 I had to take several steps to get numbers that I needed.  I started with the table in the last project where it shows every show and how many songs are in each set and was able to create a table that has every track from every show and then shows the following:
@@ -27,6 +29,7 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 *SQL Code for listing all placement for individual songs for the the beeswarm plots  
 ![pic5](/photos/set_placement_for_beeswarm.jpg)  
 
+<a name="abcd"></a>
 ## And You Step to the Line
 Just the Jams Link
 Most Likely to Open, Second, Preclose, Close Table
