@@ -11,6 +11,7 @@ Shakedown is not just a place to see the same song titles crammed into a popular
 * [What Do I Need to Know About the Data?](https://jroefive.github.io/2020/05/01/Data-Preview.html) - I'm using a database from Phish.in that is focused more on uploading tracks and less on analyzing Phish data so I need to see what quirks are in the data and how to compensate in different projects.
 * [Song frequency changes over the course of Phish's career](https://jroefive.github.io/2020/05/02/Song-Frequency-Over-Phish-Career.html)
 * [Visualizing Changes in Number of Songs per Show](https://jroefive.github.io/2020/05/09/Visualizing-Number-Of-Tracks-Per-Show.html) - A handful of visualizations showing how the number of songs in each set and in a full show have changed over time.
+* [Analysis Set Placement of Specific Songs](https://jroefive.github.io/2020/05/11/Song-Placement-Analysis.html) - Which songs tend to be openers or closers?  Which songs tend to be played in the same slot and which ones get spread throughout a show?
 
 ### Projects Almost Done
 
@@ -26,7 +27,6 @@ Shakedown is not just a place to see the same song titles crammed into a popular
 * Redefining Phish eras by significant changes in song lengths, show lengths, song selection, etc
 * Tagging specific types of showsf - Seguefests for songs with x number of segues, number of bustouts, number of tracks
 * Song length and spread analysis - Do songs tend to get longer or shorter over time, can you predict how long the next song will be based on the length of the previous track? How much is the length of the longest song in a set correlated to the number of tracks in that set?
-* Song placement analsysis - songs that are predominantly set closers, mid set, encores, etc.
 * Light Color Analysis - Comparing all official youtube releases, or potentially dinner and a movie releases, to look for patterns in light colors.  Like a combination of these two projects: 
 * State or venue bias - Are they more likely to play certain songs in certain states or venues?
 * Predicting the frequency of a song based on its debut - Is it possible to predict how frequently a new song will be played based on the set placement of the debut, or the length of the debut, or how far into a tour the song is debuted?
