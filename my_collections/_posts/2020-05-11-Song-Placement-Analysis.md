@@ -21,8 +21,11 @@ In the last step above, I realized that I hadn’t adjusted for shows that had s
 [pic](/photos/set_open_close1.jpg)
 [pic2](/photos/set_open_close2.jpg)
 *SQL Code for finding the percentage of times each song was in each set slot
+[pic3](/photos/percent_open_close.jpg)
 *SQL Code for finding the average and standard deviation of placement
+[pic4](/photos/avg_std_placement.jpg)
 *SQL Code for listing all placement for individual songs for the the beeswarm plots
+[pic5](/photos/set_placement_for_beeswarm.jpg)
 
 ## And You Step to the Line
 Just the Jams Link
