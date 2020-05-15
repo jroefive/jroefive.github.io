@@ -18,8 +18,8 @@ About 3000 Travel Pictures
 [Argentina - El Clalten, Fitzroy Jan 2020](https://photos.app.goo.gl/x5ScRaZyMiQihJRR8)
 [Chile - Carretera Austral - Jan 2020](https://photos.app.goo.gl/YFtH2NwcNcKgDapM7)  
 [Argentina - El Bolson, Bariloche, Buenos Aires Jan/Feb 20](https://photos.app.goo.gl/YSEAorQXFkKqqyPU7)  
-[Argentina - Iguazu, Brazil - Iguacu, Florianopolis Feb 20](https://photos.app.goo.gl/i9bYeTAUhuffCDmX6)
-[Brazil - Sao Paulo, Rio Feb/Mar 20](https://photos.app.goo.gl/VYcS6N1s1LKBxSDt5)
-[Portugal - Lisboa, Porto, Braga, Tomar Mar 20](https://photos.app.goo.gl/X8ickMVmaLLU6RsN7)
+[Argentina - Iguazu, Brazil - Iguacu, Florianopolis Feb 20](https://photos.app.goo.gl/i9bYeTAUhuffCDmX6)  
+[Brazil - Sao Paulo, Rio Feb/Mar 20](https://photos.app.goo.gl/VYcS6N1s1LKBxSDt5)  
+[Portugal - Lisboa, Porto, Braga, Tomar Mar 20](https://photos.app.goo.gl/X8ickMVmaLLU6RsN7)  
 
 
