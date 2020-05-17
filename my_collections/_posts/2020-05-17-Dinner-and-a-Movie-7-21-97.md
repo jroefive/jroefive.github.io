@@ -37,7 +37,7 @@ I thought it would be cool to look at other times that the same transitions happ
 |Piper|Dirt|Never|  
 |Dirt|Ginseng Sullivan|Never|  
 |Ginseng Sullivan|Bathtub Gin|7/10/97, 8/16/98|  
-|Bathtub Gin|Character Zero|9/29/00*, 10/10/99*, 6/14/09|  
+|Bathtub Gin|Character Zero|9/29/00*, 10/10/99%, 6/14/09|  
 |Character Zero - Closer|Wolfman's Brother - Opener|10/16/96, 8/8/97|  
 |Wolfman's Brother|Magilla|5/4/94|  
 |Magilla|David Bowie|9/29/90,10/4/91|  
@@ -47,6 +47,6 @@ I thought it would be cool to look at other times that the same transitions happ
 |Funky Bitch|Slave to the Traffic Light|6/7/95|  
 |Slave to the Traffic Light - Closer|Loving Cup - Encore|11/4/94, 5/29/11, 8/29/12^, 10/27/13, 10/21/16, 7/15/17, 6/25/19|  
 
-* * - Also closed set with Gin, Zero  
+* % - Also closed set with Gin, Zero  
 * ^ - Slave > Loving Cup together in the encore
 
