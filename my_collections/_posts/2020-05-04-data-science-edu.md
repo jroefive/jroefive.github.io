@@ -16,3 +16,6 @@ In an education setting, no one is looking for a perfect model, they are looking
 
 ### Embed data science into the curriculum.  
 And not just math.  While I believe that math curriculum should be much more focused on statistics and modeling, I don’t think this is the only opportunity to discuss and do data science in the classroom.  English and foreign language teachers can learn about Natural Language Processing and how they work.  Social science teachers can discuss how data science is used to predict voting patterns.  And teachers may be more receptive to discussing models if they know it is something their students are learning.
+
+### Focus on Short Term Models
+Many of the models I've seen are for weeks or months into the future.  By the time the prediction window closes, the inputs and noise are so great that it's hard to determine what just happened.  Instead of models predicting a student's attendance rate, I'd predict whether they would come to school tomorrow.  Instead of trying to predict students grades at the end of the term, I'd be working to predict, how they would do on the next assessment.  
