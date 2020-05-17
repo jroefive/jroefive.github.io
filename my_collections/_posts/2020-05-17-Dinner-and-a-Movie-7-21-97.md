@@ -24,6 +24,9 @@ Nothing really next to explain, but some thoughts:
 * For set duration, you can see that the sets were a bit shorter during this time period by toggling between Rest and either previous 50 or next 50.  
 * I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2428059/) for context.  
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2427892" data-url="https://flo.uri.sh/visualisation/2427892/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>   
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2427791" data-url="https://flo.uri.sh/visualisation/2427791/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+
 ### Same Transitions  
 I thought it would be cool to look at other times that the same transitions happened.  
 
@@ -44,6 +47,6 @@ I thought it would be cool to look at other times that the same transitions happ
 |Funky Bitch|Slave to the Traffic Light|6/7/95|  
 |Slave to the Traffic Light - Closer|Loving Cup - Encore|11/4/94, 5/29/11, 8/29/12^, 10/27/13, 10/21/16, 7/15/17, 6/25/19|  
 
-* - Also closed set with Gin, Zero  
-^ - Slave > Loving Cup together in the encore
+* * - Also closed set with Gin, Zero  
+* ^ - Slave > Loving Cup together in the encore
 
