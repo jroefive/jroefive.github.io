@@ -41,6 +41,6 @@ I thought it would be cool to look at other times that the same transitions happ
 |Theme from the Bottom|Funky Bitch|1/13/17, 10/23/18, 12/4/19|
 |Funky Bitch|Slave to the Traffic Light|6/7/95|
 |Slave to the Traffic Light - Closer|Loving Cup - Encore|11/4/94, 5/29/11, 8/29/12^, 10/27/13, 10/21/16, 7/15/17, 6/25/19|  
-* - Also closed set with Gin, Zero
+* - Also closed set with Gin, Zero  
 ^ - Slave > Loving Cup together in the encore
 
