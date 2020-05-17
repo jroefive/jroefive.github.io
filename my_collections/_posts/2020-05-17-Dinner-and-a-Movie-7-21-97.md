@@ -21,3 +21,14 @@ Nothing really next to explain, but some thoughts:
 * Interesting to see how few songs were played during the period compared to the rest of Phish’s career and toggling between previous 50 and next 50 shows that the number of songs in the second set drops off pretty drastically after this show..  You can see [here](https://app.flourish.studio/visualisation/2318099/edit) the same trend. 
 * For set duration, you can see that the sets were a bit shorter during this time period by toggling between Rest and either previous 50 or next 50.  
 * I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2428059/) for context.  
+
+### Same Transitions
+I thought it would be cool to look at other times that the same transitions happened.
+
+|--|--|--|
+|Ghost|Dogs Stole Things|8/2/97|
+|Dogs Stole Things|Piper|2/22/03|
+|Piper|Dirt|Never|
+|Dirt|Ginseng Sullivan|Never|
+|Ginseng Sullivan|Bathtub Gin|7/10/97, 8/16/98|
+
