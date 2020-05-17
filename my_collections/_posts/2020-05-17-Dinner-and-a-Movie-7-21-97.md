@@ -25,6 +25,7 @@ Nothing really next to explain, but some thoughts:
 ### Same Transitions
 I thought it would be cool to look at other times that the same transitions happened.  
 
+|Song 1|Song 2|Dates|
 |--|--|--|
 |Ghost|Dogs Stole Things|8/2/97|
 |Dogs Stole Things|Piper|2/22/03|
