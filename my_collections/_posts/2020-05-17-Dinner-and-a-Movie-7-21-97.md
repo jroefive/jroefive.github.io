@@ -23,7 +23,7 @@ Nothing really next to explain, but some thoughts:
 * I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2428059/) for context.  
 
 ### Same Transitions
-I thought it would be cool to look at other times that the same transitions happened.
+I thought it would be cool to look at other times that the same transitions happened.  
 
 |--|--|--|
 |Ghost|Dogs Stole Things|8/2/97|
@@ -31,4 +31,15 @@ I thought it would be cool to look at other times that the same transitions happ
 |Piper|Dirt|Never|
 |Dirt|Ginseng Sullivan|Never|
 |Ginseng Sullivan|Bathtub Gin|7/10/97, 8/16/98|
+|Bathtub Gin|Character Zero|9/29/00*, 10/10/99*, 6/14/09|
+|Character Zero - Closer|Wolfman's Brother - Opener|10/16/96|8/8/97|
+|Wolfman's Brother|Magilla|5/4/94|
+|Magilla|David Bowie|9/29/90,10/4/91|
+|David Bowie|Wading in the Velvet Sea|7/31/99, 10/3/99|
+|Wading in the Velvet Sea|Theme from the Bottom|Never|
+|Theme from the Bottom|Funky Bitch|1/13/17, 10/23/18, 12/4/19|
+|Funky Bitch|Slave to the Traffic Light|6/7/95|
+|Slave to the Traffic Light - Closer|Loving Cup - Encore|11/4/94, 5/29/11, 8/29/12^, 10/27/13, 10/21/16, 7/15/17, 6/25/19|  
+* - Also closed set with Gin, Zero
+^ - Slave > Loving Cup together in the encore
 
