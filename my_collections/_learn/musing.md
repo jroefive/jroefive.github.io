@@ -6,7 +6,8 @@ I'd like to document my learning process but I don't want to overdue it.  So, I'
 
 ### Blogs Posted
 * [Share a raw copy of my notes from listening to podcasts](https://jroefive.github.io/2020/05/07/Podcast-Notes.html)
-* [Quarantine Walk Mapping](https://jroefive.github.io/2020/05/02/Quarantine-Walk-Mapping.html) - Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.  So far I just have an idea for an algorithm, not any model.
+* [Quarantine Walk Mapping](https://jroefive.github.io/2020/05/02/Quarantine-Walk-Mapping.html) - Generate a map of walks from a starting point that cover as much of the surrounding roads and paths while minimizing overlapping on roads and paths you've already been on.  So far I just have an idea for an algorithm, not any model.  
+* [A review of some data science podcasts I've been listening to](https://jroefive.github.io/2020/05/23/Data-Science-Podcast-Reviews.html)
 
 ### Blog Ideas
 * Rough outline of all things I've done to try to teach myself data science
