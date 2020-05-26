@@ -3,32 +3,29 @@ layout: post
 collection: phish
 ---
 
-Special Show
-Link to previous post for explanations
-Data
+Even though I had hopes that the delay in announcing this week's stream meant that we might get a special treat, I was still happy to have this show come up.  I wore a sloth onesie to this show and walked around the concourse pre-show extremely slowly, especially in bottlenecks, just to mess with people.  It was really fun to see annoyed people get past me then look back and chuckle once they realized the bit.  It was also funny to hear people yell "Wombat!" and have the lady in the spicy chicken sandwich line say: "How many sandwiches does the bear want?"
 
+I copied the exact some graphics and scheme from last week's stream so if you want some more in depth descriptions you can look at [last week's post.](https://jroefive.github.io/2020/05/17/Dinner-and-a-Movie-7-21-97.html)
 
 ### Song Durations  
-This isn’t an original idea.  [Mayacelium on Reddit made one of these for the Magnaball release](https://www.reddit.com/r/PhishData/comments/g1vd8t/dinner_and_a_movie_graphic/).  I thought it would be interesting to add a layer to show the length of the songs during the 50 shows before and after the 7/21/97 show to help put the show in context of the era.  I think the graphs are pretty self explanatory but here are a few tips:  
-* You can click the colored circles at the top to just show that category.  This will help if you can’t see the current show in the swarm.  Click again to bring everything back.  
-* Clicking on the previous 50 or next 50 circle can give you a quick reference for how many times the songs had been played during that time period.  The box plot also changes so you can get a bit of a sense if the average length and spread changed much during those time periods.  
-* The horizontal direction doesn’t mean much. A wide line shows that there were a lot of instances where the song was played for that long.  But, whether the dot is on the right or left doesn’t mean anything.  
-<div class="flourish-embed flourish-scatter" data-src="visualisation/2427442" data-url="https://flo.uri.sh/visualisation/2427442/embed" data-width="100%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  <div class="flourish-embed flourish-scatter" data-src="visualisation/2427392" data-url="https://flo.uri.sh/visualisation/2427392/embed" data-width="100%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+* Because there are two song sandwiches (Wolfman's > Party Time > Wolfman's[1] and Tweezer > DDHVL > Tweezer) I had to figure out the best way to show it in the data.  I decided it was best to just list Wolfman's and Tweezer once instead of having essentially the same data shown again in a graph that's already super busy.  Thus the duration of Wolfman's and Tweezer is the combined time of both times they were played during the show.  
+* None of the song durations are extreme enough outliers to mention but the 46 Days and Tweezer are in the top 25 percent for length and Carini is a bit short, especially if compared just with the most recent 95 shows.
+
+[1] - Based on Phish.com LivePhish.com this is a separate song, Phish.net and Phish.in have it marked as teases.  I think Party Time is played in full since 100% of lyrics are sung.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2576563" data-url="https://flo.uri.sh/visualisation/2576563/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  <div class="flourish-embed flourish-scatter" data-src="visualisation/2576367" data-url="https://flo.uri.sh/visualisation/2576367/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+
 
 ### Song Placement  
-This is similar to [this post](https://jroefive.github.io/2020/05/11/Song-Placement-Analysis.html) I made in the past.  The placing of the dots are where within the show the song has appeared.  For example a song at 2.17 means that the song showed up 17% of the way into the second set.  In the past post, I did this by track number.  So 2.17 would pretty much mean that if there were 6 songs, it was the second song.  In this post, I changed it to the time into the set.  I think this is a bit more accurate because a song showing up as the second song after a short intro song like Buried Alive is in a very different spot in the set than a second song that comes after a killer 25 minute jam to open the seet.  A couple quick notes:  
-* I dropped all the times that a song was played in the third set as a way to compress the graph.  But, if a song was played in another set during a three set show, it will be in there.  
-* Like in the last graph, clicking the different circles filters and can give you a bit of a sense about where in the set songs were  showing up in late 96 through mid 98. 
-* Pretty interesting to see that Piper was never played much in the first half of the first set unless it opened the set. The rest of the songs all are in pretty typical places.  
-<div class="flourish-embed flourish-scatter" data-src="visualisation/2426920" data-url="https://flo.uri.sh/visualisation/2426920/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
-<div class="flourish-embed flourish-scatter" data-src="visualisation/2427157" data-url="https://flo.uri.sh/visualisation/2427157/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
-### Overall Show Length and Tracks  
-Nothing really to explain, but some thoughts:  
-* Interesting to see how few songs were played during the period compared to the rest of Phish’s career and toggling between previous 50 and next 50 shows that the number of songs in the second set drops off pretty drastically after this show..  You can see  the same trend [here](https://app.flourish.studio/visualisation/2318099/edit) the same trend. 
-* For set duration, you can see that the sets were a bit shorter during this time period by toggling between Rest and either previous 50 or next 50.  
-* I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2428059/) for context.  
+* For Wolfman's and Tweezer, you'll see two purple Y's because they are both technically played twice.  
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/2427892" data-url="https://flo.uri.sh/visualisation/2427892/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>   
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2576111" data-url="https://flo.uri.sh/visualisation/2576111/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2576270" data-url="https://flo.uri.sh/visualisation/2576270/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Overall Show Length and Tracks  
+* I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2575772/) for context.  
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2575863" data-url="https://flo.uri.sh/visualisation/2575863/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-scatter" data-src="visualisation/2427791" data-url="https://flo.uri.sh/visualisation/2427791/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
 ### Same Transitions  
