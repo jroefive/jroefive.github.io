@@ -25,7 +25,7 @@ I copied the exact some graphics and scheme from last week's stream so if you wa
 ### Overall Show Length and Tracks  
 * I dropped Big Cypress to be able to see the data a bit better.  But you can see [Big Cypress included on this graph](https://public.flourish.studio/visualisation/2575772/) for context.  
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/2575863" data-url="https://flo.uri.sh/visualisation/2575863/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2575887" data-url="https://flo.uri.sh/visualisation/2575887/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-scatter" data-src="visualisation/2427791" data-url="https://flo.uri.sh/visualisation/2427791/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
 ### Same Transitions  
