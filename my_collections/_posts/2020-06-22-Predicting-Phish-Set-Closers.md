@@ -15,14 +15,14 @@ After brainstorming a bunch of different ways to combine the data, I ended up wi
 2. Whether or not it was the set closer (what we are trying to predict)
 3. The song number for the total show
 4. What set the song is in
-5. The song number for the set it is in
-6, 7, 8. A rolling average of songs per set for the previous 10, 50, and 100 shows.  (How many songs were in the first set on average over the last 50 shows)
-9, 10, 11. A fraction of the song number in the set over the rolling averages mentioned above.  (If song 9 just started and there have been an average of 10 songs in the first set over the last 50 shows then the model would say that this song was 90% into an average set.)
-12, 13, 14, 15. The percentage of time the specific song opens a set, is the second song in a set, is the song before the set closer, and closes a set.
-16. How many minutes into the set did the song start?
-17, 18, 19. A rolling average of set durations over the last 10, 50, and 100 shows.
-20, 21, 22. The same fraction as in number 7 but with the amount of time into the set over the average set duration (instead of using the song number.)
-23. 24. 25. An average set placement for the song being played over the last 10, 50, and 100 shows.  (If a song started at the 20 minute mark of an 80 minute set then it would have a set placement of .25, then this number averages the set placement for the particular song over the most recent shows.)
+5. The song number for the set it is in  
+6-8. A rolling average of songs per set for the previous 10, 50, and 100 shows.  (How many songs were in the first set on average over the last 50 shows)  
+9-11. A fraction of the song number in the set over the rolling averages mentioned above.  (If song 9 just started and there have been an average of 10 songs in the first set over the last 50 shows then the model would say that this song was 90% into an average set.)  
+12-15. The percentage of time the specific song opens a set, is the second song in a set, is the song before the set closer, and closes a set.  
+16. How many minutes into the set did the song start?  
+17-19. A rolling average of set durations over the last 10, 50, and 100 shows.  
+20-22. The same fraction as in number 7 but with the amount of time into the set over the average set duration (instead of using the song number.)   
+23-25. An average set placement for the song being played over the last 10, 50, and 100 shows.  (If a song started at the 20 minute mark of an 80 minute set then it would have a set placement of .25, then this number averages the set placement for the particular song over the most recent shows.)  
 
 Many of these data points I described in my other posts on this topic.  The rest are mainly just different combinations of those.
 
