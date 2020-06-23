@@ -53,5 +53,5 @@ It would also probably make sense to make completely separate models for each se
 
 Finally, one of the main goals of using models like this is to make tons of changes and use different types of models until you find the one that is the most accurate and runs the fastest.  I didn’t do that with this model because a) that process would come up with a different set of inputs and model optimizations for every single show and b) this is a fun exercise in trying to force this process onto something that ultimately doesn’t matter.  Similar models may help you predict at halftime who is going to win a basketball game or which people are most likely to decide that they can’t vote for a racist for president again.  In those cases it could make a big difference to make the model a percentage point more accurate.  But, not for this.
 
-As always, I’m open to feedback, questions and feature requests!  My code is up on github and uses Python, Flask, and Dash.
+As always, I’m open to feedback, questions and feature requests!  My [code is up on github](https://github.com/jroefive/Phish-Set-Closer-Predictor-Dashboard) and uses Python, Flask, and Dash.
 
