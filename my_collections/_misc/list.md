@@ -8,6 +8,7 @@ Phish, education, and learning data science aren't the only things I spend my ti
 * [Sussex County Love](https://jroefive.github.io/2020/05/07/Sussex-County-Love.html) - A map of all the walks I've taken since coming back to Sussex county and a bunch of pictures.
 * [Travel Photos](https://jroefive.github.io/2020/05/15/Travel-Photos.html) - Links to about 3000 photos from my travels in South America
 * [Reflections on Travel in South America During Protests](https://jroefive.github.io/2020/05/31/Reflections-on-traveling-during-protests-in-South-America.html) - Some thoughts I chose to share about what I witnessed during protests in South America as I was seeing similar patterns in police and military response here in the states.
+* [Mental Health Supports during COVID](https://jroefive.github.io/2020/05/26/Mental-Health-Supports-during-COVID.html) - A reflection on my discomfort with the argument that people will be more likely to suicide if government shutdowns last too long.
 
 ### Things to post
 * Songs or poems I've written
