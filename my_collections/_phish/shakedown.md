@@ -12,7 +12,11 @@ Shakedown is not just a place to see the same song titles crammed into a popular
 * [Song frequency changes over the course of Phish's career](https://jroefive.github.io/2020/05/02/Song-Frequency-Over-Phish-Career.html)
 * [Visualizing Changes in Number of Songs per Show](https://jroefive.github.io/2020/05/09/Visualizing-Number-Of-Tracks-Per-Show.html) - A handful of visualizations showing how the number of songs in each set and in a full show have changed over time.
 * [Analysis Set Placement of Specific Songs](https://jroefive.github.io/2020/05/11/Song-Placement-Analysis.html) - Which songs tend to be openers or closers?  Which songs tend to be played in the same slot and which ones get spread throughout a show?
-* [Dinner and a Movie - 7/21/97 - Visualizations](https://jroefive.github.io/2020/05/17/Dinner-and-a-Movie-7-21-97.html)
+* [Dinner and a Movie - 7/21/97 - Visualizations](https://jroefive.github.io/2020/05/17/Dinner-and-a-Movie-7-21-97.html)  - A visualization of a Phish show.
+* [Dinner and a Movie - 12-29-18 - Visualizations](https://jroefive.github.io/2020/05/26/Dinner-And-A-Movie-12-29-18.html)  - A visualization of a another Phish show.  
+* [Predicting Phish Set Closers](https://jroefive.github.io/2020/06/22/Predicting-Phish-Set-Closers.html) - An interactive dashboard where you can input any Phish show and it will tell you the liklihood of each track being the last song of the set.  
+* [Phish Interactive Dashboards](https://jroefive.github.io/2020/06/30/Phish-Interactive-Dashboards.html) - Links with explanations to the three flask/Dash apps I made for Phish data.  
+
 
 ### Projects Almost Done
 
