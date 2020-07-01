@@ -22,11 +22,8 @@ Shakedown is not just a place to see the same song titles crammed into a popular
 
 * How have Halloween albums impacted future setlists - Publish along with similar analysis for album releases
 
-### Projects Started
-* Predict how many songs are left in the set.
-
 ### Project Ideas
-* Song cluster analysis - Which songs are most likely to show up in the same set or show.
+* Song cluster analysis - Which songs are most likely to show up in the same set or show. (This is part of the "story of a Phish song" dashboard but I plan to add more data)
 * Are there patterns on when a song will turn up during a multi-night run
 * Mostly Mike, Prolific Page, Frequently Fish, and Totally Trey shows - Which shows have the greatest percentage of songs sung by each member.
 * Redefining Phish eras by significant changes in song lengths, show lengths, song selection, etc
