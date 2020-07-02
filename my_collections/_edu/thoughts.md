@@ -12,10 +12,6 @@ This is a place where I'll dump all my ideas for blog posts and random thoughts 
 ### Blog Post Ideas
 * How critical thinking skills are reinforced by teaching data science.
 * When data science helps to democratize decisions in education, and when it doesn't.
-* Why don't educators trust data science?
 
-
-### Random Thoughts
-* Can machine learning be used to predict which novice teachers will be most effective?
 
 
