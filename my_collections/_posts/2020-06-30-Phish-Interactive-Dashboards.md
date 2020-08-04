@@ -35,3 +35,8 @@ This dashboard allows you to put in any show you want and it will tell you the p
 [https://phish-show-digest.wl.r.appspot.com/dashapp/](https://phish-show-digest.wl.r.appspot.com/dashapp/)  
 
 This is pretty much the same concept as the first dashboard listed but for a full show and only shows the two scatter plot options.  You pull up a show and a set from that show and it will show you that scatter plot for all songs in that set.  This can be a fun way to pull up a show you went to and then see that you saw the 4th longest Tweezer or that you saw the only show where Backwards Down the Number Line opened the first set.
+
+### Phish Tour Analysis
+[https://phish-tour-analysis.wl.r.appspot.com/dashapp/](https://phish-tour-analysis.wl.r.appspot.com/dashapp/)
+
+Pull up a tour (of 13 shows or more) and see how many new songs were played each night of the tour.  Also see the most played song of the tour and the most played songs now played on the tour.  
