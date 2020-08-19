@@ -13,5 +13,6 @@ After seeing a handful of jobs list R speciically, and not Python, I thought it 
 
 ![Preview1](https://github.com/jroefive/Tidy-Tuesdays/blob/master/actions_cont.png?raw=true)  
 
-I'm hosting all my code in the Tidy-Tuesday repo found here: [https://github.com/jroefive/Tidy-Tuesdays](https://github.com/jroefive/Tidy-Tuesdays)
+I'm hosting all my code in the Tidy-Tuesday repo found here: [https://github.com/jroefive/Tidy-Tuesdays](https://github.com/jroefive/Tidy-Tuesdays)  
+
 And, posting each week on Twitter @JesseRoe55
