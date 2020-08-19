@@ -7,9 +7,11 @@ About a month ago, in the process of trying to facilitate some conversation abou
 
 After seeing a handful of jobs list R speciically, and not Python, I thought it would be good to at least get the basics down.  I came across a weekly challenge call #tidytueaday where they give you some data and you make whatever visual you want with it.  I'm enjoying it a lot, I think the coding takes a little longer than I would take in Python, but I think that will change over time.  And, the visuals on R are better.  Here are the first three I've done:
 
-![Preview1](https://github.com/jroefive/Tidy-Tuesdays/blob/master/week%2032%20final.png?raw=true)
-Picture 2
-Picture 3
+![Preview1](https://github.com/jroefive/Tidy-Tuesdays/blob/master/week%2032%20final.png?raw=true)  
+
+![Preview1](https://github.com/jroefive/Tidy-Tuesdays/blob/master/avatarwordcount.jpg?raw=true)  
+
+![Preview1](https://github.com/jroefive/Tidy-Tuesdays/blob/master/actions_cont.png?raw=true)  
 
 I'm hosting all my code in the Tidy-Tuesday repo found here: [https://github.com/jroefive/Tidy-Tuesdays](https://github.com/jroefive/Tidy-Tuesdays)
 And, posting each week on Twitter @JesseRoe55
