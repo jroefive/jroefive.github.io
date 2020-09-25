@@ -16,13 +16,13 @@ My takeaway: There really aren’t any consistent patterns, which leads me to th
 
 The second graph is a comparison between how much support a justice had in their confirmation vote and how long they ended up serving on the court.  I thought it would be interesting if there was any pattern of highly partisan confirmations leading to justices staying on the court longer.  This doesn’t seem to be the case with r^2 equal to 0.05, which means that only 5% of the variation in a justice’s tenure can be explained by variation in the percentage of the vote they got.  There are a couple justices that barely got through the nomination and served almost 30 years (Thomas and Taney) and three of the six justices who served longer than 30 years had bipartisan support (Douglas, Stevens, and Kennedy).  
 
-![Preview3](/photos/Tenure vs Support.jpg)
+![Preview3](/photos/TenurevsSupport.jpg)
 
 My takeaway:  While the correlation between these measures isn’t strong, I think it’s the variance on both axes that supports term limits.  The lack of clarity of how long a judge will be confirmed for leads to higher stakes and more political divide.
 
 The third graph breaks up each presidential term into two halves to show which party held the power of president and senate during each interval since 1961.  (I dropped 2001-2003 since the power balance changed a few times in the Senate and there were no vacancies to fill during that time.)  The most basic way to think about this is that there have been 8 presidential terms won by Republicans (53%) and 7 won by Democrats (47%) since 1961 when JFK was elected.  In that time Republican presidents have filled 14 seats (64%) and Democrats have filled 8 seats (36%).  You can see how those patterns are exacerbated more if you look at how it breaks down by Senate control in the graph.  In general, there is about one nomination per 2 year term for Republican presidents regardless of who controls the senate or for Democrat presidents who were able to nominate when the senate was held by Democrats.  However, for Democrat presidents who served with a Republican senate, a justice hasn’t been confirmed in this situation since before 1961.
 
-[Preview3](/photos/terms.jpg)
+![Preview3](/photos/terms.jpg)
 
 My takeaway: Power has been shared relatively equally across the two parties in the last 60 years but nominations to the Supreme Court haven’t, I think term limits could even this out in a way that creates a sense of fairness in the voting population and interrupts the power struggles in Senate and forces them to do something productive like police reform or pandemic support.
 
