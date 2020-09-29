@@ -12,10 +12,14 @@ Below are links to different projects in my data science portolio:
 
 [Blog Post - Plotly Dashboards to Visualize Phish Setlist Data](https://jroefive.github.io/2020/06/30/Phish-Interactive-Dashboards.html)  
 
-[Phish Setlist Dashboard](https://phish-show-digest.wl.r.appspot.com/dashapp/) [Github Repo](https://github.com/jroefive/Phish-Digest-Dashboard)  
-[The Story of a Phish Song Dashboard](https://the-story-of-a-phish-song.wl.r.appspot.com/dashapp/) [Github Repo](https://github.com/jroefive/The-Story-of-a-Phish-Song)  
-[Phish Tour Analysis](https://phish-tour-analysis.wl.r.appspot.com/dashapp/)  [Github Repo](https://github.com/jroefive/PhishTourAnalysis)
+[Phish Setlist Dashboard](https://phish-show-digest.wl.r.appspot.com/dashapp/)  
+[Github Repo](https://github.com/jroefive/Phish-Digest-Dashboard)  
 
+[The Story of a Phish Song Dashboard](https://the-story-of-a-phish-song.wl.r.appspot.com/dashapp/)  
+[Github Repo](https://github.com/jroefive/The-Story-of-a-Phish-Song)  
+
+[Phish Tour Analysis](https://phish-tour-analysis.wl.r.appspot.com/dashapp/)  
+[Github Repo](https://github.com/jroefive/PhishTourAnalysis)  
 
 [Bokeh Plots - When during a show does the Grateful Dead typically play certain songs](https://jroefive.github.io/phishruns/gd100.html)
 
