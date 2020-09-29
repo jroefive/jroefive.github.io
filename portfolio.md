@@ -13,10 +13,8 @@ Below are links to different projects in my data science portolio:
 [Blog Post - Plotly Dashboards to Visualize Phish Setlist Data](https://jroefive.github.io/2020/06/30/Phish-Interactive-Dashboards.html)  
 
 [Phish Setlist Dashboard](https://phish-show-digest.wl.r.appspot.com/dashapp/) [Github Repo](https://github.com/jroefive/Phish-Digest-Dashboard)  
-
 [The Story of a Phish Song Dashboard](https://the-story-of-a-phish-song.wl.r.appspot.com/dashapp/) [Github Repo](https://github.com/jroefive/The-Story-of-a-Phish-Song)  
-
-[Phish Tour Analysis](https://phish-tour-analysis.wl.r.appspot.com/dashapp/)  
+[Phish Tour Analysis](https://phish-tour-analysis.wl.r.appspot.com/dashapp/)  (https://github.com/jroefive/PhishTourAnalysis)
 
 
 [Bokeh Plots - When during a show does the Grateful Dead typically play certain songs](https://jroefive.github.io/phishruns/gd100.html)
@@ -24,7 +22,7 @@ Below are links to different projects in my data science portolio:
 ### Machine Learning Projects
 
 [Blog Post - Using Machine Learning to predict if a Phish song will end the set](https://jroefive.github.io/2020/06/22/Predicting-Phish-Set-Closers.html)  
-[Interactive Dashboard to Predict Phish Set Closers](https://predicting-phish-set-closers.wl.r.appspot.com/dashapp/)  
+[Interactive Dashboard to Predict Phish Set Closers](https://predicting-phish-set-closers.wl.r.appspot.com/dashapp/)  [Github Repo](https://github.com/jroefive/Phish-Set-Closer-Predictor-Dashboard)
 
 ### Writing About Data Science
 
