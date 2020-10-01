@@ -52,3 +52,8 @@ A lot of the bands that originally had the highest setlist variance had less tha
 Part of the reason that String Cheese Incident and Umphrey’s McGee end up ahead is that they play their most popular songs less often than other bands.  I guess I can’t blame them for struggling to pick any of their songs to play more often.
 It’s cool to see how high on the list some of the older acts are like Zappa and Prince
 It’s really interesting to see the shifts during a band’s career in the Song Gap graph.  Both Springsteen and Dylan recently stopped changing things up as much and, as mentioned above, Vampire Weekend saw a big shift after FOTB came out.
+
+### Feedback and Feature Requests
+Many of these bands I don't know well enough to do quality checks of the data.  If you notice any issues with a band's data, please let me know so I can improve the graph.  Also, if you have any questions that aren't answered by the writeup or any suggestions to improve the dashboard, send me a message.  I can also add more bands if your favorite band isn't on here.
+
+@JesseRoe55 on Twitter and u/PhishStatSpatula on Reddit
