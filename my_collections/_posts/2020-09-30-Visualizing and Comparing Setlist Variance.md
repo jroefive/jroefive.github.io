@@ -3,6 +3,8 @@ layout: post
 collection: phish
 ---
 
+[Link to Dashboard](https://setlist-variance.wl.r.appspot.com/)
+
 I love live music, and miss it dearly.  As part of my project to teach myself data science, I have been doing a lot of projects focused on live music, and mostly focused on Phish.  One of the things that makes Phish ripe for data analysis is their dedication to switching up setlist from night to night, surprising fans with bustouts, and having jams come out of pretty much any song.  This is also one of the main things that keep Phish fans coming back for multiple runs a year and seeing every show in a weekend.  On the other side of the spectrum, there are bands that are extremely consistent.  You pretty much know what they’ll play, and many of their fans go hoping to see the hits, a polished set, and the band at the top of their game every night.  This got me wondering if there was a way to measure how much bands change up their setlists and rank them.
 
 The first step was getting the data I needed.  And the only place to do that is on setlist.fm.  They have a relatively straightforward API that allows you to scrape through all the setlists of a band.  One small hump was that this was the first time I was getting data in JSON format.  But, once I realized I could pretty much treat them like Python dicts, it became pretty easy to get a json file for any band and all their setlists on the site.
