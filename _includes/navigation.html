@@ -1,5 +1,5 @@
 <style>
-  a {
+  #nav {
   display: inline-block;
   width: 20%;
   text-align: center;
@@ -7,6 +7,6 @@
 
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: green;"{% endif %}>{{ item.name }}</a>
+    <a class='nav' href="{{ item.link }}" {% if page.url == item.link %}style="color: green;"{% endif %}>{{ item.name }}</a>
       {% endfor %}
 </nav>
